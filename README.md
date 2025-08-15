@@ -1,10 +1,5 @@
 ## Hi there 👋 I'm glad you're here :)
 
-<p align="center">
-  <video controls playsinline width="720">
-    <source src="CDPRTraceUMN2.mp4" type="video/mp4" />
-    Sorry—your browser can’t play this video.
-  </video>
-</p>
+[https://raw.githubusercontent.com/HenryMahnke/HenryMahnke/main/CDPRTraceUMN3.mov](https://github.com/user-attachments/assets/c76b7e72-457e-4ab4-9216-ce0a7af705a4)
 
 
